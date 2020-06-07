@@ -1,0 +1,21 @@
+{
+  "name": "passport.js-h.w",
+  "version": "1.0.0",
+  "description": "homework passport.js",
+  "main": "passport.js",
+  "scripts": {
+    "start": "node passport",
+    "dev": "nodemon passport"
+  },
+  "keywords": [
+    "pra"
+  ],
+  "author": "Revital",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
